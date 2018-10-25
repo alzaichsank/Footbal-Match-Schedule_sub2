@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">Footbal Match Schedule</string>
+    <string name="prev">Prev Match </string>
+    <string name="next">Next Match </string>
+    <string name="turnOn_internet">Please Turn On Connection!</string>
+
+
+    <!--intent data-->
+    <string name="menuItem">menuItem</string>
+    <string name="idEvent">idEvent</string>
+    <string name="dateEvent">dateEvent</string>
+    <string name="strSport">strSport</string>
+
+    <!-- home team-->
+    <string name="idHomeTeam">idHomeTeam</string>
+    <string name="strHomeTeam">strHomeTeam</string>
+    <string name="intHomeScore">intHomeScore</string>
+    <string name="strHomeFormation">strHomeFormation</string>
+    <string name="strHomeGoalDetails">strHomeGoalDetails</string>
+    <string name="intHomeShots">intHomeShots</string>
+    <string name="strHomeLineupGoalkeeper">strHomeLineupGoalkeeper</string>
+    <string name="strHomeLineupDefense">strHomeLineupDefense</string>
+    <string name="strHomeLineupMidfield">strHomeLineupDefense</string>
+    <string name="strHomeLineupForward">strHomeLineupForward</string>
+    <string name="strHomeLineupSubstitutes">strHomeLineupSubstitutes</string>
+
+    <!--away team-->
+    <string name="idAwayTeam">idAwayTeam</string>
+    <string name="strAwayTeam">strAwayTeam</string>
+    <string name="intAwayScore">intAwayScore</string>
+    <string name="strAwayFormation">strAwayFormation</string>
+    <string name="strAwayGoalDetails">strAwayGoalDetails</string>
+    <string name="intAwayShots">intAwayShots</string>
+    <string name="strAwayLineupGoalkeeper">strAwayLineupGoalkeeper</string>
+    <string name="strAwayLineupDefense">strAwayLineupDefense</string>
+    <string name="strAwayLineupMidfield">strAwayLineupDefense</string>
+    <string name="strAwayLineupForward">strAwayLineupForward</string>
+    <string name="strAwayLineupSubstitutes">strAwayLineupSubstitutes</string>
+
+</resources>
